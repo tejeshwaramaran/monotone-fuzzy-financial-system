@@ -92,3 +92,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/tejeshwaramaran/monotone-fuzzy-financial-system.git
+
+<img width="1918" height="968" alt="Screenshot 2026-07-07 232307" src="https://github.com/user-attachments/assets/1325d92b-d4e8-4e13-ae8b-3bb834fc8ad8" />
+<img width="1363" height="417" alt="Screenshot 2026-07-08 005948" src="https://github.com/user-attachments/assets/61e434e7-a671-45d1-9258-f98245022047" />
+<img width="1530" height="730" alt="Screenshot 2026-07-07 232944" src="https://github.com/user-attachments/assets/b307e08d-438c-4382-b0b3-3e608e6aecde" />
+
+
